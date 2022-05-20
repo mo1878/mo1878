@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**mo1878/mo1878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mo, a Data Engineer working at Savills Plc. I have been in the Tech Industry for just under 1 Year, working as a Data Engineering Conusltant and now as part of the Insights and Data Team at Savills! I am very interested in both Back-End and Front-End Development, allowing me to attain a hollisitc view and understanding of web development. I am a Mechanical Engineer by Degree, but I have a great interest and appreciation for tech, data and it's importance within current and future business environments.
 
-Here are some ideas to get you started:
+### Technical Skills:
+- PostgreSQL
+- Python: Pandas, BeautifulSoup, Selenium and Flask,
+- Cloud Technologies: AWS Certified Cloud Practitioner, Azure DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Learning:
+- Python Flask Framework
+- HTML, CSS and JavaScript
+- Application Development and Deployment 
+
+### Future Learning
+- Django Framework
+- React 
+
+
