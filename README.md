@@ -4,11 +4,11 @@ I'm Mo, a Data Engineer working at Savills Plc. I have been in the Tech Industry
 
 ### Technical Skills:
 - PostgreSQL
-- Python: Pandas, BeautifulSoup, Selenium and Flask,
+- Python: Pandas, BeautifulSoup, Selenium, Flask, Scrapy
 - Cloud Technologies: AWS Certified Cloud Practitioner, Azure DevOps
 
 ### Current Learning:
-- Python Scrapy Framework
+- Python 
 - Python Flask Framework
 - HTML, CSS and JavaScript
 - Application Development and Deployment 
