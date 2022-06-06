@@ -8,12 +8,11 @@ I'm Mo, a Data Engineer working at Savills Plc. I have been in the Tech Industry
 - Cloud Technologies: AWS Certified Cloud Practitioner, Azure DevOps
 
 ### Current Learning:
-- Python Flask Framework
+- Django Framework
 - HTML, CSS and JavaScript
 - Application Development and Deployment 
 
 ### Future Learning
-- Django Framework
 - React 
 
 
