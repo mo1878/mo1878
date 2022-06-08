@@ -10,7 +10,8 @@ I'm Mo, a Data Engineer working at Savills Plc. I have been in the Tech Industry
 ### Current Learning:
 - Django Framework
 - HTML, CSS and JavaScript
-- Application Development and Deployment 
+- Application Development and Deployment
+- Docker 
 
 ### Future Learning
 - React 
