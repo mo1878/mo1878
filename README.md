@@ -12,7 +12,9 @@ I am a Mechanical Engineer by Degree, but I have a great appreciation for tech, 
 ### Current Learning:
 - React Framework
 - Django Framework
-- HTML, CSS and JavaScript
+- JSX, Tailwind CSS
+- Nexxt JS
+- React Native
 - Application Development and Deployment
 - Docker 
 
