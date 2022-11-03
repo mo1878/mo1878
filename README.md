@@ -13,7 +13,7 @@ I am a Mechanical Engineer by Degree, but I have a great appreciation for tech, 
 - React Framework
 - Django Framework
 - JSX, Tailwind CSS
-- Nexxt JS
+- Next JS
 - React Native
 - Application Development and Deployment
 - Docker 
