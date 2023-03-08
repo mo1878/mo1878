@@ -32,8 +32,9 @@
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a>
+   
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="file:///Users/mohammedeldosoky/Desktop/airflow-svgrepo-com.svg" alt="django" width="40" height="40"/> 
+    <img src="" alt="Airflow" width="40" height="40"/> 
   </a>
    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
