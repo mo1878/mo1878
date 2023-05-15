@@ -34,7 +34,7 @@
   </a>
    
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="" alt="Airflow" width="40" height="40"/> 
+    <img src="https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+logos?preview=/145723561/145723568/wordmark_1.svg" alt="Airflow" width="40" height="40"/> 
   </a>
    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
