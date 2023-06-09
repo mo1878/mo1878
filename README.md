@@ -1,4 +1,5 @@
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Hey I'm Mo, A Developer</h3>
+<p align="center">I'm currently a Data Engineer at Savills UK . I work across the full stack as well as interact with stakeholders directly to help implement their vision! </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo1878&label=Profile%20views&color=0e75b6&style=flat" alt="mo1878" /> </p>
 
@@ -15,6 +16,9 @@
   </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
@@ -22,21 +26,11 @@
   </a>  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
 
 </p>
 
 <h3 align="left"> Current Learning </h3>
-<p>
-   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-   
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cwiki.apache.org/confluence/display/AIRFLOW/Airflow+logos?preview=/145723561/145723568/wordmark_1.svg" alt="Airflow" width="40" height="40"/> 
-  </a>
-   
+<p>   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"  height="40"/> 
   </a>
