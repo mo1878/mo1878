@@ -1,5 +1,5 @@
-<h3 align="center">Hey I'm Mo, A Backend Developer</h3>
-<p align="center">I'm currently working as a Back End Engineer at Savills UK. I have a passion for building functioning systems that are maintainable, operationally stable and boost business productivity. I'm always learning new and interesting technologies allowing me to become a well rounded developer. </p>
+<h3 align="center">Hey I'm Mo, A Full Stack Developer</h3>
+<p align="center">I'm currently working as a Full Stack Engineer at Savills UK. I have a passion for building functioning systems that are maintainable, operationally stable and boost business productivity. I'm always learning new and interesting technologies allowing me to become a well rounded developer. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo1878&label=Profile%20views&color=0e75b6&style=flat" alt="mo1878" /> </p>
 
