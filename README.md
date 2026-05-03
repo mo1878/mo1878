@@ -12,8 +12,32 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/tanstack" alt="tanstack" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://scalr.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/scalr" alt="scalr" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></p>
+<table>
+  <tr>
+    <td align="center" width="80"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a><br>Python</td>
+    <td align="center" width="80"><a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/></a><br>Django</td>
+    <td align="center" width="80"><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/></a><br>FastAPI</td>
+    <td align="center" width="80"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a><br>TypeScript</td>
+    <td align="center" width="80"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a><br>React</td>
+    <td align="center" width="80"><a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/></a><br>Vite</td>
+    <td align="center" width="80"><a href="https://tanstack.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tanstack.svg" width="40" height="40" alt="TanStack"/></a><br>TanStack</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a><br>Postgres</td>
+    <td align="center" width="80"><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a><br>AWS</td>
+    <td align="center" width="80"><a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure"/></a><br>Azure</td>
+    <td align="center" width="80"><a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40" alt="Terraform"/></a><br>Terraform</td>
+    <td align="center" width="80"><a href="https://scalr.com/" target="_blank"><img src="https://img.shields.io/badge/Scalr-1A1A1A?style=for-the-badge&logo=terraform&logoColor=white" height="40" alt="Scalr"/></a><br>Scalr</td>
+    <td align="center" width="80"><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a><br>Figma</td>
+    <td width="80"></td>
+  </tr>
+</table>
 
 <h3 align="left">Currently Learning:</h3>
 
-<p align="left"><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a></p>
+<table>
+  <tr>
+    <td align="center" width="80"><a href="https://www.rust-lang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="40" height="40" alt="Rust"/></a><br>Rust</td>
+    <td align="center" width="80"><a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go"/></a><br>Go</td>
+  </tr>
+</table>
