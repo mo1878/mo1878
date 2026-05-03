@@ -20,14 +20,14 @@
     <td align="center" width="80"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a><br>TypeScript</td>
     <td align="center" width="80"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a><br>React</td>
     <td align="center" width="80"><a href="https://vitejs.dev/" target="_blank"><img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite"/></a><br>Vite</td>
-    <td align="center" width="80"><a href="https://tanstack.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tanstack.svg" width="40" height="40" alt="TanStack"/></a><br>TanStack</td>
+    <td align="center" width="80"><a href="https://tanstack.com/" target="_blank"><img src="https://cdn.simpleicons.org/tanstack/black/white" width="40" height="40" alt="TanStack"/></a><br>TanStack</td>
   </tr>
   <tr>
     <td align="center" width="80"><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a><br>Postgres</td>
     <td align="center" width="80"><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a><br>AWS</td>
     <td align="center" width="80"><a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure"/></a><br>Azure</td>
     <td align="center" width="80"><a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40" alt="Terraform"/></a><br>Terraform</td>
-    <td align="center" width="80"><a href="https://scalr.com/" target="_blank"><img src="https://img.shields.io/badge/Scalr-1A1A1A?style=for-the-badge&logo=terraform&logoColor=white" height="40" alt="Scalr"/></a><br>Scalr</td>
+    <td align="center" width="80"><a href="https://scalr.com/" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Scalr-FFFFFF?style=flat-square&logo=terraform&logoColor=black"><img src="https://img.shields.io/badge/Scalr-1A1A1A?style=flat-square&logo=terraform&logoColor=white" height="40" alt="Scalr"/></picture></a><br>Scalr</td>
     <td align="center" width="80"><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a><br>Figma</td>
     <td width="80"></td>
   </tr>
